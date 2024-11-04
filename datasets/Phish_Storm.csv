@@ -1,0 +1,7 @@
+url,label
+http://www.trustworthy-site.com,0
+http://www.scam-website.com,1
+http://www.authentic-website.com,0
+http://www.malicious-site.com,1
+http://www.reputable-website.com,0
+http://www.fishing-scam.com,1

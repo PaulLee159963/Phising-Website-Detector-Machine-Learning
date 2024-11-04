@@ -1,0 +1,7 @@
+url,label
+http://www.example.com,0
+http://www.phishing-example.com,1
+http://www.safe-site.com,0
+http://www.phishing-attack.com,1
+http://www.another-safe-site.com,0
+http://www.fraudulent-site.com,1
